@@ -1,0 +1,52 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
+  "entries": [
+    {
+      "id": "20261008-214814-loex",
+      "title": "Estrad, Inter Reloaded",
+      "commanders": [
+        "Estrad",
+        "Inter Reloaded"
+      ],
+      "guild": {
+        "id": "BF0049F6-450D-E511-A2AD-AC162DC0A8ED",
+        "name": "Gank Me Im Famous",
+        "tag": "GanK"
+      },
+      "dateStart": "2026-10-08T19:48:14.000Z",
+      "dateEnd": "2026-10-08T20:59:38.959Z",
+      "dateLabel": "8.10.2026, 21:48:14 - 8.10.2026, 22:59:38",
+      "url": "https://anmanex.github.io/WvW_Reports/?report=20261008-214814-loex",
+      "publishedBy": "anmanex",
+      "summary": {
+        "borderlandsPct": 0.9183673469387755,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 23,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 23
+      }
+    }
+  ]
+}
